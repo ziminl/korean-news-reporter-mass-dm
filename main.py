@@ -8,7 +8,7 @@ import csv
 
 
 
-sender_email = 'gmail'  # Replace with your email address
+sender_email = 'gmail'
 subject = 'title of mass dm!'
 message = 'test message'
 
